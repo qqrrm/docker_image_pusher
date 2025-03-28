@@ -1,1 +1,1 @@
---platform=linux/arm64 ghcr.io/qt/qt5:5.15.2
+ghcr.io/qt/qt5:5.15.2
